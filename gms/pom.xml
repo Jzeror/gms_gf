@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
-		<java-version>1.8</java-version>
+		<java-version>1.8</java-version> 
 		<spring-version>4.2.4.RELEASE</spring-version>
 		<aspectj-version>1.8.10</aspectj-version>
 		<slf4j-version>1.7.7</slf4j-version> 
