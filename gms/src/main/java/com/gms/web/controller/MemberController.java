@@ -79,6 +79,7 @@ public class MemberController {
 	public String logout(HttpSession session) {
 		logger.info("Member Controller :: logout()");
 		session.removeAttribute("user");
+		
 		return "redirect:/";
 	}
 }

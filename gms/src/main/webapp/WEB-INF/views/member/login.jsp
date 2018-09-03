@@ -9,6 +9,8 @@
 </div>
 <script>
 $('#login_form_btn').click(function(){
+	
+	alert("바보래요 ~ 바보래요 ~~~~~~~~~~");
 	$('#login-form')
 		.attr({ action : "${context}/member/login",
 				method : "POST"})

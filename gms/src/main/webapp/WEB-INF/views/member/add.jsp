@@ -17,7 +17,8 @@
 			<option value="front">프론트개발</option>
 			<option value="back">백단개발</option>
 			<option value="android">안드로이드개발</option>
-		</select><br>
+		</select>
+		<br>
 		수강과목
 		<input type="checkbox" name="subject" value="java" checked="checked"/>Java
 		<input type="checkbox" name="subject" value="c-lang"/>C언어
